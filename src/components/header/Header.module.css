@@ -1,4 +1,7 @@
 .header {
-    background-color: black;
-    height: 80px;
+    background-color: var(--gray-700);
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
